@@ -1,19 +1,12 @@
 {
   "expo": {
-    "name": "Hishab",
-    "slug": "hishab",
-    "version": "1.0.0",
-    "newArchEnabled": true,
-    "ios": {
-      "bundleIdentifier": "com.hishab.akram"
-    },
-    "android": {
-      "package": "com.hishab.akram"
-    },
     "extra": {
       "eas": {
         "projectId": "e4525481-b596-4ef3-8fa1-fd7028b9e8e3"
       }
+    },
+    "android": {
+      "package": "com.hishab.akram"
     }
   }
 }
